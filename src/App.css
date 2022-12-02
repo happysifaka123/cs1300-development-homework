@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  padding: 5rem;
 }
 
 .App-logo {
@@ -11,6 +12,10 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.title{
+  font-size: 5em;
 }
 
 .App-header {
@@ -35,4 +40,33 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#resetButton{
+  font-size: 1.5em;
+}
+
+label{
+  font-size: 1.3em;
+  margin-left: 0.3em;
+}
+
+
+.sorts-and-filters{
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+  background-color: lightskyblue;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+h2{
+  margin-bottom: 0.5em;
+}
+
+.cart-contents{
+  background-color: lightyellow;
+  padding: 1em;
+  margin-bottom: 2.5em;
+
 }

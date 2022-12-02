@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Matcha Latte",
+        "seasonal_menu": false,
+        "type": "drink",
+        "price": 4.50,
+        "review": 4,
+        "image": "images/matcha_latte.png"
+        
+    },
+    {
+        "name": "Hot Chocolate",
+        "seasonal_menu": true,
+        "type": "drink",
+        "price": 4.00,
+        "review": 5,
+        "image": "images/hot_chocolate.png"
+    },
+    {
+        "name": "Caffe Latte",
+        "seasonal_menu": false,
+        "type": "drink",
+        "price": 3.50,
+        "review": 3,
+        "image": "images/caffe_latte.png"
+    },
+    {
+        "name": "Apple Pie",
+        "seasonal_menu": true,
+        "type": "pie",
+        "price": 10.00,
+        "review": 2,
+        "image": "images/apple_pie.png"
+    },
+    {
+        "name": "Key Lime Pie",
+        "seasonal_menu": false,
+        "type": "pie",
+        "price": 12.00,
+        "review": 4,
+        "image": "images/key_lime_pie.png"
+    },
+    {
+        "name": "Lemon Pie",
+        "seasonal_menu": false,
+        "type": "pie",
+        "price": 12.00,
+        "review": 3,
+        "image": "images/lemon_pie.png"
+    },
+    {
+        "name": "Pecan Pie",
+        "seasonal_menu": false,
+        "type": "pie",
+        "price": 12.00,
+        "review": 5,
+        "image": "images/pecan_pie.png"
+    },
+    {
+        "name": "Pumpkin Pie",
+        "seasonal_menu": true,
+        "type": "pie",
+        "price": 15.00,
+        "review": 4,
+        "image": "images/pumpkin_pie.png"
+    },
+    {
+        "name": "Strawberry Pastry",
+        "seasonal_menu": true,
+        "type": "pastry",
+        "price": 7.00,
+        "review": 2,
+        "image": "images/strawberry_pastry.png"
+    },
+    {
+        "name": "Fruit Pastry",
+        "seasonal_menu": false,
+        "type": "pastry",
+        "price": 9.00,
+        "review": 5,
+        "image": "images/fruit_pastry.png"
+    },
+    {
+        "name": "Chocolate Chip Cookie",
+        "seasonal_menu": false,
+        "type": "cookie",
+        "price": 4.00,
+        "review": 3,
+        "image": "images/chocolate_chip_cookie.png"
+    },
+    {
+        "name": "Ginger Cookie",
+        "seasonal_menu": true,
+        "type": "cookie",
+        "price": 4.00,
+        "review": 3,
+        "image": "images/ginger_cookie.png"
+    }   
+]
